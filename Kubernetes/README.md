@@ -5,3 +5,6 @@
 #### - [Kubernetes 101 - Episode 2 - Containers](https://www.youtube.com/watch?v=AHDrejEv0SM)
 
 #### - [First Steps to Becoming a Kubernetes Certified Application Developer - Ben Hall, Katacoda](https://www.youtube.com/watch?v=pnTBFcddFR8)
+
+#### - [Large-scale cluster management at Google with Borg](https://research.google/pubs/pub43438/)
+
